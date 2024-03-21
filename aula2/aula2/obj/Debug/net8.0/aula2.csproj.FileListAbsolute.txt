@@ -1,0 +1,14 @@
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\bin\Debug\net8.0\aula2.exe
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\bin\Debug\net8.0\aula2.deps.json
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\bin\Debug\net8.0\aula2.runtimeconfig.json
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\bin\Debug\net8.0\aula2.dll
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\bin\Debug\net8.0\aula2.pdb
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\aula2.AssemblyInfoInputs.cache
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\aula2.AssemblyInfo.cs
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\aula2.dll
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\refint\aula2.dll
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\aula2.pdb
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\aula2.genruntimeconfig.cache
+C:\Users\João Gabriel\OneDrive\Documentos\João Gabriel\aula2\aula2\obj\Debug\net8.0\ref\aula2.dll
